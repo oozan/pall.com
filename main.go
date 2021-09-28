@@ -15,7 +15,7 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "postgres"
-	password = "h0prsvmv."
+	password = "your-password"
 	dbname   = "pall_com"
 )
 
