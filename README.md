@@ -3,7 +3,7 @@
 Photo gallery web application written in GO
 
 
-MVC pattern is used for creating RESTful APIs with gorilla mux package.
+MVC pattern with RESTful APIs using gorilla mux package.
 
 
 to run the application
