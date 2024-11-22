@@ -13,4 +13,4 @@ go run main.go
 _______
 
 It’s been three years since I started coding in Go. This repo is from those early days and was left as a work-in-progress. 
-While it still remains under development, I’ll be sharingm more Go projects here on my GitHub.
+While it still remains under development, I’ll be sharing more Go projects here on my GitHub.
